@@ -20,6 +20,10 @@ Welcome to the Movie Info Search Engine! This web application allows users to se
 ## License 
 No license was used during this Web Application Process
 
+## Contributions 
+AsmrProg-YT
+100-days-of-javascript
+
 ## Link to Application
 https://hsolojr.github.io/Movie-Search-Engine/ 
 
